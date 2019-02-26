@@ -1,0 +1,13 @@
+{
+    "name": "miftahzein/yii-gridtabularinput",
+    "description": "Grid Tabular Input Component",
+    "keywords": ["yii", "extension", "grid", "tabular"],
+    "type": "yii-extension",
+    "license": "MIT-Clause",
+    "authors": [
+        {
+            "name": "Zein Miftah",
+            "email": "zeinmiftah@gmail.com"
+        }
+    ]
+}
