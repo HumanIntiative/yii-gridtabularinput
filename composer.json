@@ -1,5 +1,5 @@
 {
-    "name": "miftahzein/yii-gridtabularinput",
+    "name": "pkpudev/yii-gridtabularinput",
     "description": "Grid Tabular Input Component",
     "keywords": ["yii", "extension", "grid", "tabular"],
     "type": "yii-extension",
